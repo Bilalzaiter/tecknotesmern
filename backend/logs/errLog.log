@@ -1,0 +1,10 @@
+20230728	20:54:13	4ac14ecc-274a-4e82-8809-f7b301e9430c	SyntaxError: Unexpected token } in JSON at position 83	POST	/users	undefined
+20230728	20:54:23	0a873313-e157-485c-b501-5e6874897cf9	SyntaxError: Unexpected token } in JSON at position 84	POST	/users	undefined
+20230728	21:07:30	43333ffd-9831-41e9-95ea-bb6027ab4b1e	TypeError: roles.every is not a function	POST	/users	undefined
+20230728	21:09:43	14a3dd25-e7c3-47ba-a47c-357117b67c14	TypeError: roles.forEach is not a function	POST	/users	undefined
+20230728	21:10:36	f63cbbe2-07d0-48f1-8c07-890d4c69ef6a	TypeError: roles.every is not a function	POST	/users	undefined
+20230728	21:12:56	e79e0be8-2fe0-4401-838f-3c61a41bfaff	SyntaxError: Unexpected end of JSON input	POST	/users	undefined
+20230728	21:13:09	5927078b-3bf1-46f6-8973-b33dab80679d	SyntaxError: Unexpected end of JSON input	POST	/users	undefined
+20230728	21:13:18	a113a64d-1599-45af-b403-3bf64b09798a	SyntaxError: Unexpected end of JSON input	POST	/users	undefined
+20230728	21:13:30	726ce46b-bad6-494a-aed7-81e0eea889da	SyntaxError: Unexpected token } in JSON at position 71	POST	/users	undefined
+20230728	21:19:15	e5af4de3-3149-4b6a-b1ba-20dc71fb3df9	SyntaxError: Unexpected token } in JSON at position 55	POST	/users	undefined
